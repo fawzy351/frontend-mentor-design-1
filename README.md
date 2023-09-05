@@ -1,1 +1,1 @@
-# frontend-mentor-desing-1
+# frontend-mentor-design-1
